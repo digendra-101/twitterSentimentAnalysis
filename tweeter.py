@@ -8,7 +8,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('C:/Users/WIN 10/Desktop/sentiment analysis project/python/Twitter_Data.csv')
+
 with st.sidebar:
     st.title(" 👋😄Hello To My App")
     st.markdown('''
