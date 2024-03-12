@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 
 
 from streamlit_extras.add_vertical_space import add_vertical_space
-import nltk
-nltk.download('vader_lexicon')
+
 
 # Read the CSV file into a DataFrame
 df = pd.read_csv('C:/Users/WIN 10/Desktop/sentiment analysis project/python/Twitter_Data.csv')
