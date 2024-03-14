@@ -19,7 +19,7 @@ with st.sidebar:
         - Built with Streamlit, Python, nltk,pandas.
     ''')
     add_vertical_space(5)
-    st.write("Made with ❤️ By Digendre Gendre")
+    st.write("Twitter sentiment analysis")
 
 def main():
     st.header("Upload your Data Below")
