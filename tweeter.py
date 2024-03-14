@@ -12,7 +12,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 # Read the CSV file into a DataFrame
 
 with st.sidebar:
-    st.title(" 👋😄Hello To My App")
+    st.title(" 👋😄X(Twitter) Sentiment Analysis")
     st.markdown('''
         ## About
         - This software lets you perform sentiment analysis on tweets from twitter.
